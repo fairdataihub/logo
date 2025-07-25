@@ -8,7 +8,7 @@
 
 ## About
 
-Files of the logo of the FAIR Data Innovations Hub
+Files of the logo of the FAIR Data Innovations Hub.
 
 Logo created by [Mitesh Patel](https://miteshdesign.com/).
 
