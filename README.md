@@ -12,6 +12,11 @@ Files of the logo of the FAIR Data Innovations Hub
 
 Logo created by [Mitesh Patel](https://miteshdesign.com/).
 
+
+<p align="center">
+  <img src="https://github.com/fairdataihub/logo/blob/main/SVG/02_Transparent/Fair_logo_05_Main_Transparent.svg" width="200"/>
+</p>
+
 ## License
 The material in this repository is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
