@@ -15,7 +15,7 @@ Logo created by [Mitesh Patel](https://miteshdesign.com/).
 Figma of all logos [link](https://www.figma.com/design/uAifCWpOguuGaNqnErbm5g/Fairdataihub-Logos?m=auto&t=txk5zBhg5e8qUMac-1).
 
 <p align="center">
-  <img src="https://github.com/fairdataihub/logo/blob/main/SVG/02_Transparent/Fair_logo_05_Main_Transparent.svg" width="200"/>
+  <img src="https://github.com/fairdataihub/logo/blob/main/SVG/02_Main_Logo_Transparent/Fair_logo_05_Main_Transparent.svg" width="200"/>
 </p>
 
 ## License
